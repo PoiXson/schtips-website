@@ -15,13 +15,13 @@
 	}],
 	"autoload": {
 		"psr-4": {
-			"pxn\\gcWebsite\\": "src/"
+			"pxn\\schtipsWebsite\\": "src/"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"pxn\\gcWebsite\\tests\\":    "tests/",
-			"pxn\\gcWebsite\\examples\\": "examples/"
+			"pxn\\schtipsWebsite\\tests\\":    "tests/",
+			"pxn\\schtipsWebsite\\examples\\": "examples/"
 		}
 	},
 	"archive": {
